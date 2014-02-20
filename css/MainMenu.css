@@ -1,0 +1,44 @@
+#MainMenu
+{
+	padding-bottom: 3em;
+}
+
+#MainMenu li
+{
+	border-color: #000000;
+	border-left-style: solid;
+	border-width: 1px;
+	float: left;
+	font-family: Verdana, sans-serif;
+	font-size: 80%;
+	height: 4em;
+	list-style: none;
+	/*line-height: 1em;*/
+	padding-left: 0.5em;
+	padding-right: 2em;
+}
+
+#MainMenu a
+{
+	font-weight: 700;
+}
+
+#MainMenu a, #MainMenu a:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+#MainMenu a:hover
+{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+

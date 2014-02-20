@@ -1,0 +1,40 @@
+/* Блок аннотации */
+#Annotation
+{
+	float: left;
+}
+
+#Annotation h3
+{
+	font-weight: 400;
+	margin: 2em 0em 0.5em 0em;
+}
+
+#Annotation img
+{
+	padding-right: 10px;
+}
+
+#Annotation p
+{
+	text-align: justify;
+}
+
+/* Специальные абзацы */
+#AdvancedInfo
+{
+	font-family: Verdana, san-serif;
+	font-size: 70%;
+	font-style: italic;
+	padding: 1em 0em 2em 0em;
+}
+
+#Description
+{
+	font-size: 90%;
+}
+
+#Annotation li
+{
+	margin-left: 2em;
+}

@@ -1,0 +1,38 @@
+#Title
+{
+	font-family: "Book Antiqua", serif;
+	margin: 0;
+	padding: 0;
+}
+
+#Title a, #Title a:visited
+{	
+	color: #000000;
+	text-decoration: none;
+}
+
+#Title img
+{
+	border-style: none;
+	margin-right: 5px;
+}
+
+#Title h1
+{
+	margin-bottom: -10px;
+}
+
+#Title h4 
+{
+	font-weight: 400;
+	padding: 0px 0px 10px 0px !important;
+	letter-spacing: 2px;
+}
+
+#Title p
+{
+	font-family: "Book Antiqua", serif;
+	font-size: 80%;
+	margin-bottom: 1em;
+	width: 500px;
+}

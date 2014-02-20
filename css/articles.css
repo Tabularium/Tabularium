@@ -1,0 +1,20 @@
+@import url(annotation.css);
+@import url(reference.css);
+
+#Article
+{
+	min-width: 500px;
+}
+
+#Article p
+{
+	margin: 1em 0em;
+	text-align: justify;
+}
+
+#Author
+{
+	font-family: Verdana, san-serif;
+	font-size: 80%;
+	letter-spacing: 0.2em;
+}

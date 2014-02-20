@@ -1,0 +1,21 @@
+div.Rhyme
+{
+	float: left;
+	margin-left: 5em;
+	width: 490px;
+}
+
+#Articles div.Rhyme
+{
+	width: 650px;
+}
+
+div.Rhyme h4
+{
+	margin-top: 1em;
+}
+
+div.Rhyme p
+{
+	text-align: left;
+}

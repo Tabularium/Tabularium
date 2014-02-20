@@ -1,0 +1,187 @@
+@import url(MainMenu.css);
+
+*
+{
+	margin: 0px; 
+	padding: 0px;
+}
+
+a 
+{
+	color: #106010;
+}
+
+a:visited
+{
+	color: #101060;
+}
+
+blockquote
+{
+	font-style: italic;
+}
+
+body
+{
+	background-color: #CCCC99;
+	background-image: url(../paper.jpg);
+	color: #000000;
+	font-family: "Book Antiqua", serif;
+	padding-top: 1em;
+}
+
+#Ants, #Banner
+{
+clear: left; 
+	margin: 5px 0px 2px -350px;
+	left: 50%;
+	position: relative;
+	text-align: right;
+	width: 700px;
+}
+
+#Ants
+{
+	font-family: Verdana, san-serif;
+	font-size: 80%;
+	font-weight: 700;
+}
+
+#Ants a, #Ants a:visited
+{
+	color: #106010;
+	text-decoration: none;
+}
+
+#Ants a:hover
+{
+	text-decoration: underline;
+}
+
+h3
+{
+	font-family: Verdana, "san-serif" !important;
+}
+
+.Image
+{
+	border-color: #000000;
+	border-style: none;
+	border-width: 1px;
+	float: left;
+	text-align: right;
+	width: 210px;
+}
+
+.Image img
+{
+	margin: 0px 5px;
+}
+
+.Image p
+{
+	font-family: Verdana, sans-serif !important;
+	font-size: xx-small !important;
+	margin: 0px 5px;
+	padding: 0px !important;
+}
+
+.Link
+{
+	text-align: right;
+}
+
+
+p.subTitle
+{
+	font-family: Verdana, san-serif;
+	font-size: 80%;
+	margin: 0.5em 0em 2em 0em;
+	text-align: right !important; 
+}
+
+#Title
+{
+	font-family: "Book Antiqua", serif;
+}
+
+#Title a, #Title a:visited
+{	
+	color: #000000;
+	text-decoration: none;
+}
+
+#Title img
+{
+	border-style: none;
+	margin-right: 5px;
+}
+
+#Title h1
+{
+	margin-bottom: -10px;
+}
+
+#Title h4 
+{
+	font-weight: 400;
+	padding: 0px 0px 10px 0px !important;
+	letter-spacing: 2px;
+}
+
+#Title p
+{
+	font-family: "Book Antiqua", serif;
+	font-size: 80%;
+	margin-bottom: 1em;
+	width: 500px;
+}
+
+#Updates
+{
+	/*float: left;*/
+	left: 50%;
+	margin-left: 355px;
+	position: absolute;
+	top: 14em;
+	width: 145px;
+}
+
+#Updates dl
+{
+	font-family: Verdana, san-serif;
+	font-size: 70%;
+	margin: 0px 0px 10px 1px;
+}
+
+#Updates dt {
+	margin-top: 0.5em;
+}
+
+#Updates dd
+{
+	margin-left: 0.8em;
+}
+
+#Updates p
+{
+	font-size: 90%;
+}
+
+#Workspace
+{
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	/*float: left;*/
+	margin-left: -350px;
+	left: 50%;
+	padding: 1em 10px 1em 20px;
+	position: relative;
+	width: 700px;
+}
+
+div[id="Workspace"]
+{
+	width: 670px !important;
+}

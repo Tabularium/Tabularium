@@ -1,0 +1,16 @@
+dl
+{
+	font-family: Verdana, sans-serif;
+	margin-left: 2px;
+}
+
+dt {
+	font-weight: 700;
+	margin-top: 1em;
+}
+
+dd
+{
+	text-indent: -1em;
+	margin-left: 2em;
+}

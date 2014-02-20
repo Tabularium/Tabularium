@@ -1,0 +1,13 @@
+#Reference
+{
+	border-color: #000000;
+	border-top-style: solid;
+	border-width: 1px;
+	width: 650px;
+}
+
+#Reference p
+{
+	text-indent: -1em;
+	margin: 0px 0px 0px 1em !important;
+}

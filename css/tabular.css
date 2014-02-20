@@ -1,0 +1,101 @@
+a 
+{
+	color: #106010;
+}
+
+a:visited
+{
+	color: #101060;
+}
+
+body
+{
+	background-color: #CCCC99;
+	font-family: Verdana, sans-serif;
+}
+
+dl
+{
+	font-size: 75%;
+	margin: 0px 0px 10px 1px;
+}
+
+dt {
+	font-family: "Book Antiqua", serif;
+	font-weight: 700;
+	padding: 0px;
+}
+
+dd
+{
+	font-family: "Book Antiqua", serif;
+	margin-left: 10px;
+}
+
+h1, h4, h5, p 
+{
+	margin: 0px; 
+	padding: 0px;
+
+}
+
+h1
+{
+	font-family: "Book Antiqua", serif;
+	margin-bottom: -10px;
+}
+
+h1 a, h1 a:visited
+{	
+	color: #000000;
+}
+
+h4 
+{
+	font-weight: 400;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+}
+
+h5 {
+	line-height: 1em;
+}
+
+h5 a, h5 a:visited
+{
+	color: #000000;
+	/*font-weight: 400;*/
+	text-decoration: none;
+}
+
+h5 a:hover
+{
+	text-decoration: underline;
+}
+
+p
+{
+	font-family: "Book Antiqua", serif;
+	font-size: 80%;
+}
+
+table.Workspace
+{
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	vertical-align: top;
+}
+
+td
+{
+	vertical-align: top;
+}
+
+td.menu 
+{
+	padding: 0px 0px 5px 5px;
+	border-left-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+}

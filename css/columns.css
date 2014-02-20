@@ -1,0 +1,43 @@
+.Column
+{
+	border-color: #000000;
+	border-right-style: dotted;
+	border-width: 1px;
+	float: left;
+}
+
+.Column p, .LastColumn p
+{
+	margin: 5px;
+}
+
+.LastColumn
+{
+	border-style: none;
+	float: left;
+
+}
+
+.TitleColumn
+{
+	border-color: #000000;
+	border-style: double none;
+	border-width: 3px;
+	float: left;
+	font-size: 90%;
+	margin: 5px 0px;
+	padding: 5px 0px;
+	width: 640px;
+}
+
+#Index .Column, #Index div.LastColumn
+{
+	font-size: 90%;
+	width: 210px;
+}
+
+#Persons .Column, #Persons .LastColumn
+{
+	font-size: 80%;
+	width: 210px;
+}
