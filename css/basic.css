@@ -94,11 +94,10 @@ h3
 	padding: 0px !important;
 }
 
-.Link
-{
+.Link {
+	font-size: small;
 	text-align: right;
 }
-
 
 p.subTitle
 {
