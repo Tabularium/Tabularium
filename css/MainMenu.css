@@ -13,23 +13,22 @@
 	font-size: 80%;
 	height: 4em;
 	list-style: none;
-	/*line-height: 1em;*/
 	padding-left: 0.5em;
 	padding-right: 2em;
 }
 
-#MainMenu a
+#MainMenu a, h4.title
 {
 	font-weight: 700;
 }
 
-#MainMenu a, #MainMenu a:visited
+#MainMenu a, h4.title a, #MainMenu a:visited, h4.title a:visited, article h4 a, article h4 a:visited
 {
 	color: #000000;
 	text-decoration: none;
 }
 
-#MainMenu a:hover
+#MainMenu a:hover, h4.title a:hover, article h4 a:hover
 {
 	text-decoration: underline;
 }

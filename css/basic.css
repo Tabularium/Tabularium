@@ -21,10 +21,19 @@ blockquote
 	font-style: italic;
 }
 
-body
+body, ul.bxslider li
 {
 	background-color: #CCCC99;
 	background-image: url(../paper.jpg);
+	/*padding: 0px;
+	margin: 0px;
+	border-style: none;
+	border-width: 0px;
+	border-color: #000000;*/
+}
+
+body
+{
 	color: #000000;
 	font-family: "Book Antiqua", serif;
 	padding-top: 1em;
@@ -70,7 +79,6 @@ h3
 	border-width: 1px;
 	float: left;
 	text-align: right;
-	width: 210px;
 }
 
 .Image img
@@ -139,7 +147,6 @@ p.subTitle
 
 #Updates
 {
-	/*float: left;*/
 	left: 50%;
 	margin-left: 355px;
 	position: absolute;
@@ -173,7 +180,6 @@ p.subTitle
 	border-color: #000000;
 	border-style: solid;
 	border-width: 1px;
-	/*float: left;*/
 	margin-left: -350px;
 	left: 50%;
 	padding: 1em 10px 1em 20px;
